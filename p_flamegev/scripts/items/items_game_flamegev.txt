@@ -1,0 +1,34 @@
+"items_game"
+{
+	"prefabs"
+	{
+
+		"weapon_negev_prefab"
+		{
+			"item_name"		"Flamegev"
+			"attributes"
+			{
+			
+				"inaccuracy jump initial"		"100.379997"
+				"inaccuracy jump"		"130.830002"
+				"primary reserve ammo max"		"300"
+				"spread"		"30"
+				"heat per shot"		"1.900000"
+				"max player speed"		"180"
+				"is full auto"		"1"
+				"in game price"		"1700"
+				"bullets"		"5"
+				"damage"		"25"
+				"range"		"512"
+			}
+			
+			"visuals"
+			{
+				"muzzle_flash_effect_1st_person"		"flamegev_muzzle"
+				"muzzle_flash_effect_3rd_person"		"flamegev_muzzle"
+				"eject_brass_effect"		"weapon_sensorgren_smoke"
+				"tracer_effect"			"flamegev_child"
+			}
+		}
+	}
+}
